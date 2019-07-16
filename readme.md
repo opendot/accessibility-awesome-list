@@ -1,29 +1,38 @@
-# Accessibility Awesome List [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Accessibility Awesome List
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome tools, resources and materials on the world of accessibility
 
-
 ## Contents
-
-- [Section](#section)
-- [Another Section](#another-section)
-
-
-## Section
 
 About this section. Optional. Keep this short and focus on the list.
 
+- [Codesign](#Codesign)
+- [Video](#Video)
+- [Podcast](#Podcast)
+- [Book](#Book)
+- [Paper](#Paper)
+
+## Codesign
+
+### Projects
+
 - [List item](http://example.com)
 - [List item](http://example.com)
 
+### Organizations 
+### Individuals
+### Platforms
+### Fablabs
 
-## Another Section
+## Video
 
-### Subsection
+## Podcast
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+## Book
 
+## Paper
 
 ## Contribute
 

@@ -23,7 +23,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [List item](http://example.com)
 - [List item](http://example.com)
 
-### Organizations 
+### Organizations
 ### Individuals
 ### Platforms
 ### Fablabs

@@ -30,19 +30,27 @@ About this section. Optional. Keep this short and focus on the list.
 Platforms where various open source projects can be found.
 
 * [Instructables](https://www.instructables.com)  
-* [OpenThings](https://www.openthings.wiki) 486 projects in collection.
-* [Thingiverse](https://www.thingiverse.com) 450 projects related to health and healthcare.
+* [OpenThings](https://www.openthings.wiki) 
+* [Thingiverse](https://www.thingiverse.com)
 * [GitHub](https://www.github.com)
 * [Wevolver](https://www.wevolver.com) 
 * [Hackaday](https://www.hackster.io)
 * [Duino4projects](http://duino4projects.com)
-* [Arduino - Project Hub](https://create.arduino.cc/projecthub) More than 20 000 projects, many tutorials.
+* [Arduino - Project Hub](https://create.arduino.cc/projecthub)
 * [My Mini Factory](https://www.myminifactory.com/) 
 * [Wikifab](http://wikifab.org/wiki/Accueil) 
 * [Youmagine](https://www.youmagine.com) 
 * [Makers making change](https://www.makersmakingchange.com) 
 * [Yeggi](http://www.yeggi.com/)
-
+* [Fabble](http://fabble.cc/)
+* [High Tech Humanitarians](http://www.hthumanitarians.org/page/toolbox)
+* [Eddy](http://eddiy.es/doku.php?id=soluciones_segun_discapacidad:soluciones)
+* [Eddy Peru](http://www.eddiy.pe/doku.php?id=vida_independiente:conjunto_de_soluciones_publicadas)
+* [Appropedia](http://www.appropedia.org)
+* [Meviro](https://www.meviro.org)
+* [Wikifactory](https://wikifactory.com/)
+* [My humanitarian kit](http://wikilab.myhumankit.org/index.php?title=Main_Page)
+* [Assistive technology solutions](https://atsolutions.org/)
 
 ### Fablabs
 

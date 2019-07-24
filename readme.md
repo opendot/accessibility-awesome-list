@@ -26,7 +26,24 @@ About this section. Optional. Keep this short and focus on the list.
 ### Organizations
 ### Individuals
 ### Platforms
-- lalala
+
+Platforms where various open source projects can be found.
+
+* [Instructables](www.instructables.com)  
+* [OpenThings](www.openthings.wiki) 486 projects in collection.
+* [Thingiverse](www.thingiverse.com) 450 projects related to health and healthcare.
+* [GitHub](www.github.com)
+* [Wevolver](www.wevolver.com) 
+* [Hackaday](https://www.hackster.io)
+* [Duino4projects](http://duino4projects.com)
+* [Arduino - Project Hub](https://create.arduino.cc/projecthub) More than 20 000 projects, many tutorials.
+* [My Mini Factory](https://www.myminifactory.com/) 
+* [Wikifab](http://wikifab.org/wiki/Accueil) 
+* [Youmagine](www.youmagine.com) 
+* [Makers making change](www.makersmakingchange.com) 
+* [Yeggi](http://www.yeggi.com/)
+
+
 ### Fablabs
 
 ## Video

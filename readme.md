@@ -20,8 +20,13 @@ About this section. Optional. Keep this short and focus on the list.
 
 ### Projects
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Makertherapy](https://www.makertherapy.com)
+- [Disrupt Disability](https://www.disruptdisability.org/)
+- [Maker Nurse](https://makernurse.com/)
+- [ToyLikeMe](https://www.toylikeme.org/)
+- [DESIGN (DIS)ABILITY](https://www.design-dis-ability.com/english-home)
+- [Disrupt Disability](https://www.disruptdisability.org/)
+- [The Eyewriter](https://www.eyewriter.org/)
 
 ### Organizations
 ### Individuals
@@ -29,28 +34,36 @@ About this section. Optional. Keep this short and focus on the list.
 
 Platforms where various open source projects can be found.
 
+Maker-oriented platforms:
+
 * [Instructables](https://www.instructables.com)  
-* [OpenThings](https://www.openthings.wiki) 
 * [Thingiverse](https://www.thingiverse.com)
 * [GitHub](https://www.github.com)
 * [Wevolver](https://www.wevolver.com) 
-* [Hackaday](https://www.hackster.io)
+* [Hackaday](https://www.hackaday.io)
+* [Hackster](https://www.hackster.io)
 * [Duino4projects](http://duino4projects.com)
 * [Arduino - Project Hub](https://create.arduino.cc/projecthub)
 * [My Mini Factory](https://www.myminifactory.com/) 
 * [Wikifab](http://wikifab.org/wiki/Accueil) 
-* [Youmagine](https://www.youmagine.com) 
-* [Makers making change](https://www.makersmakingchange.com) 
-* [Yeggi](http://www.yeggi.com/)
+* [Youmagine](https://www.youmagine.com)  
 * [Fabble](http://fabble.cc/)
-* [High Tech Humanitarians](http://www.hthumanitarians.org/page/toolbox)
+* [Wikifactory](https://wikifactory.com/)
+
+User-oriented platforms
+
+* [Makers making change](https://www.makersmakingchange.com)
 * [Eddy](http://eddiy.es/doku.php?id=soluciones_segun_discapacidad:soluciones)
 * [Eddy Peru](http://www.eddiy.pe/doku.php?id=vida_independiente:conjunto_de_soluciones_publicadas)
 * [Appropedia](http://www.appropedia.org)
 * [Meviro](https://www.meviro.org)
-* [Wikifactory](https://wikifactory.com/)
 * [My humanitarian kit](http://wikilab.myhumankit.org/index.php?title=Main_Page)
 * [Assistive technology solutions](https://atsolutions.org/)
+* [Spinalistips](https://spinalistips.se/en)
+* [MakeAbility](https://www.makeability.org.uk/)
+* [Patient Innovation](https://patient-innovation.com)
+* [D4E1 - Design for everyone](http://designforeveryone.howest.be/output/)
+* [CrackedIt](https://cracked-it.org)
 
 ### Fablabs
 

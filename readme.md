@@ -23,13 +23,24 @@ About this section. Optional. Keep this short and focus on the list.
 - [Makertherapy](https://www.makertherapy.com)
 - [Disrupt Disability](https://www.disruptdisability.org/)
 - [Maker Nurse](https://makernurse.com/)
-- [ToyLikeMe](https://www.toylikeme.org/)
+- [ToyLikeMe](http://www.toylikeme.org/)
 - [DESIGN (DIS)ABILITY](https://www.design-dis-ability.com/english-home)
 - [Disrupt Disability](https://www.disruptdisability.org/)
 - [The Eyewriter](https://www.eyewriter.org/)
 
 ### Organizations
+
+- [Field Ready](https://www.fieldready.org/)
+- [Global Humanitarian Lab](https://globalhumanitarianlab.org/)
+- [Health design by us](https://www.healthdesignby.us/)
+- [Health Design Lab](https://www.healthdesignlab.com)
+- [Enable](https://enablingthefuture.org/)
+- [MIT Little Devices Lab](http://littledevices.mit.edu/)
+
 ### Individuals
+
+- [Doctor as Designer](https://www.doctorasdesigner.com/)
+
 ### Platforms
 
 Platforms where various open source projects can be found.
@@ -70,6 +81,8 @@ User-oriented platforms
 ## Video
 
 ## Podcast
+
+* [Disability Visibility Project](https://disabilityvisibilityproject.com/)
 
 ## Book
 

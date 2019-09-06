@@ -25,8 +25,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [Maker Nurse](https://makernurse.com/)
 - [ToyLikeMe](http://www.toylikeme.org/)
 - [DESIGN (DIS)ABILITY](https://www.design-dis-ability.com/english-home)
-- [Disrupt Disability](https://www.disruptdisability.org/)
-- [The Eyewriter](https://www.eyewriter.org/)
+- [The Eyewriter](http://www.eyewriter.org/)
 
 ### Organizations
 

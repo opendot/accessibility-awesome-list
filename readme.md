@@ -39,7 +39,7 @@ Maker-oriented platforms:
 * [Instructables](https://www.instructables.com)  
 * [Thingiverse](https://www.thingiverse.com)
 * [GitHub](https://www.github.com)
-* [Wevolver](https://www.wevolver.com) 
+* [Wevolver](http://www.wevolver.com) 
 * [Hackaday](https://www.hackaday.io)
 * [Hackster](https://www.hackster.io)
 * [Duino4projects](http://duino4projects.com)

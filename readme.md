@@ -82,6 +82,7 @@ User-oriented platforms
 ## Podcast
 
 * [Disability Visibility Project](https://disabilityvisibilityproject.com/)
+* [CivicActions List of Podcasts](https://accessibility.civicactions.com/guide/resources#podcasts)
 
 ## Book
 
